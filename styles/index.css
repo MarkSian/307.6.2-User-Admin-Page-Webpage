@@ -1,0 +1,20 @@
+* {
+    font-family: 'Saira Semi Condensed';
+}
+
+body {
+    background-color: #F6F0F0 !important;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    object-fit: contain;
+    height: 500px;
+}
+
+#carouselExample {
+    width: 100%;
+}
